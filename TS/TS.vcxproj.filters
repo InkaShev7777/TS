@@ -18,5 +18,22 @@
     <ClCompile Include="TS.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Avto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Moto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Avto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Moto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
